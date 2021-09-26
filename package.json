@@ -33,6 +33,7 @@
     "inquirer": "^7.3.3",
     "js-yaml": "^4.1.0",
     "node-fetch": "^2.6.1",
+    "tslib": "^2.0.0",
     "unzipper": "^0.10.11",
     "xmldoc": "^1.1.2"
   },
@@ -78,4 +79,3 @@
     "url": "https://github.com/tinesoft/nxrocks.git"
   }
 }
-
